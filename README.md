@@ -1,2 +1,8 @@
 # hybrid_majority_voting_obesity
 Hybrid Majority Voting: Prediction and Classification Model for Obesity
+
+Because it is associated with most multifactorial inherited diseases like heart disease, hypertension, diabetes, and other serious medical conditions, obesity is a major global health concern. Obesity is caused by hereditary, physiological, and environmental factors, as well as poor nutrition and a lack of exercise. Weight loss can be difficult for various reasons, and it is diagnosed via BMI, which is used to estimate body fat for most people. Muscular athletes, for example, may have a BMI in the obesity range even when they are not obese. Researchers from a variety of backgrounds and institutions devised different hypotheses and models for the prediction and classification of obesity using different approaches and various machine learning techniques. In this study, a majority voting-based hybrid modeling approach using a gradient boosting classifier, extreme gradient boosting, and a multilayer perceptron was developed. Seven distinct machine learning algorithms were used on open datasets from the UCI machine learning repository, and their respective accuracy levels were compared before the combined approaches were chosen. The proposed majority voting-based hybrid model for prediction and classification of obesity that was achieved has an accuracy of 97.16%, which is greater than both the individual models and the other hybrid models that have been developed.
+Keywords:
+obesity; machine learning; majority voting; hybrid modeling; BMI
+
+Full paper link https://www.mdpi.com/2075-4418/13/15/2610
